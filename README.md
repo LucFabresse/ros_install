@@ -1,4 +1,6 @@
 # ros_install
 
-Installation scripts for different ROS installations.
+Install ROS Noetic on 20.04
+
+
 
